@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=30_0j0XYOas&ab_channel=TechatWorldline
+
+https://www.youtube.com/watch?v=jxSPx1bfl2M&ab_channel=MatthewBerman
+
+https://github.com/alejandro-ao/yt-stream-langchain-streamlit
+
+https://github.com/alejandro-ao/yt-stream-langchain-streamlit/blob/master/src/app.py
+
